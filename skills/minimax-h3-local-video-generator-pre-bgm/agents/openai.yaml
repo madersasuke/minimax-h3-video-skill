@@ -1,0 +1,4 @@
+interface:
+  display_name: "MiniMax H3 本地视频制作（BGM 更新前）"
+  short_description: "用于对比测试的 BGM 规则更新前历史版本"
+  default_prompt: "使用 $minimax-h3-local-video-generator-pre-bgm 根据我的风格参考、角色素材和文案制作本地 MiniMax H3 视频提示词。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "MiniMax H3 本地视频制作"
+  short_description: "跨模态风格匹配、片内版式防重复的本地 H3 视频制作"
+  default_prompt: "使用 $minimax-h3-local-video-generator 根据我的风格参考、角色素材、文案和可选 BGM 制作本地 MiniMax H3 视频，并确保各镜头的平面骨架与动效机制丰富且不重复。"
